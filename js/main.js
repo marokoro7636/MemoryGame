@@ -1,4 +1,5 @@
 let field = document.getElementById("field");
+let clearText = document.getElementById("clearText")
 
 for (let i = 0; i < DECK_NUM; i++) {
     let cardField = document.createElement("div");
